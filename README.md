@@ -22,15 +22,12 @@
 Welcome, pages for new and returning Judge Advocate General prospects.
 
 ## Usage
-As a user, I can submit an online application for membership in teh U.S.ARMY'S Judge Advocate General's Coprs or continue an existing application.
+As a user, I can submit an online application for membership in the U.S.ARMY'S Judge Advocate General's Coprs or continue an existing application.
 
 ## Built-With
 * HTML
 * CSS
-* JavaScript
-* Google-Fonts
-* Boxicons
-* Swiper CDN
+
 
    
 
@@ -42,8 +39,9 @@ As a user, I can submit an online application for membership in teh U.S.ARMY'S J
  [Online Application](https://msowers72.github.io/Log-In-Form/)
  
  
- ![images](./src/images/Screenshot1.png) 
- ![images](./src/images/Screenshot2.png) 
+ ![images](./assets/img/Home.png) 
+ ![images](./assets/img/welcomeback.png) 
+ ![images](./assets/img/Congrats.png) 
  
 
 
